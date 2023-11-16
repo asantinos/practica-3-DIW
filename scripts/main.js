@@ -1,3 +1,9 @@
+/**
+ * Author: Alejandro Santos Garcia
+ * 
+ * Github Repository: https://github.com/asantinos/practica-3-DIW.git
+ */
+
 import { openNewWindow } from "./abrirVentanaExterior.js";
 import { estacion } from "./estacion.js";
 import { calcularEdad } from "./calcularEdad.js";
